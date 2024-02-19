@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Signup</title>
+  <link rel="stylesheet" href="css/login.css">
+</head>
+
+<body>
+  <div class="center">
+  
+    <h1>Sign Up</h1>
+    <p id="res" style="color: blueviolet;font-weight: 600;text-align: center;"></p>
+    <form method="post" onsubmit="signup(event)">
+      <div class="txt_field">
+        <input type="text" required id="username" placeholder="Username">
+
+      </div>
+      <div class="txt_field">
+        <input type="password" required id="pass" placeholder="Password">
+
+      </div>
+      <div class="txt_field">
+        <input type="email" required id="email" placeholder="Email">
+
+      </div>
+
+
+
+      <input type="submit" value="sign up">
+
+      <div class="signup_link">
+        <a href="login.html">Login</a>
+      </div>
+    </form>
+  </div>
+
+  <script src="login.js"></script>
+
+</body>
+
+
+</html>

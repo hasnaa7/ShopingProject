@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8">
+  <title>Login</title>
+  <link rel="stylesheet" href="css/login.css">
+</head>
+<body>
+  <div class="center">
+    <h1>Login</h1>
+    <p id="res" style="color: blueviolet;font-weight: 600;text-align: center;"></p>
+    <form method="post" onsubmit="login(event)"> <!-- Corrected function name -->
+      <div class="txt_field">
+        <input type="text" required id="username" placeholder="Username">
+      </div>
+      <div class="txt_field">
+        <input type="password" required id="pass" placeholder="Password">
+      </div>
+      <input type="submit" value="Login">
+      <div class="signup_link">
+        <a href="SignUp.html">Signup</a>
+      </div>
+    </form>
+  </div>
+
+  <script src="login.js"></script>
+</body>
+</html>

@@ -1,0 +1,70 @@
+[{
+    "id" : 1,
+    "brandname":"Adidas",
+    "name":"Cartoon Abstronaut T-Shirts",
+    "price": 7 ,
+    "image":"img/products/f1.jpg"
+
+},
+
+
+{
+    "id" : 2,
+    "brandname":"Adidas",
+    "name":"Cartoon Abstronaut T-Shirts",
+    "price": 10,
+    "image":"img/products/f2.jpg"
+
+},
+{
+    "id" : 3,
+    "brandname":"Adidas",
+    "name":"Cartoon Abstronaut T-Shirts",
+    "price": 30,
+    "image":"img/products/f3.jpg"
+
+},
+{
+    "id" : 4,
+    "brandname":"Adidas",
+    "name":"Cartoon Abstronaut T-Shirts",
+    "price": 80,
+    "image":"img/products/f4.jpg"
+
+},
+{
+    "id" : 5,
+    "brandname":"Adidas",
+    "name":"Cartoon Abstronaut T-Shirts",
+    "price": 7,
+    "image":"img/products/f5.jpg"
+
+}
+,
+{
+    "id" : 6,
+    "brandname":"Adidas",
+    "name":"Cartoon Abstronaut T-Shirts",
+    "price": 13,
+    "image":"img/products/f6.jpg"
+
+}
+,
+{
+    "id" : 7,
+    "brandname":"Adidas",
+    "name":"Cartoon Abstronaut T-Shirts",
+    "price":11,
+    "image":"img/products/f7.jpg"
+
+}
+,
+{
+    "id" : 8,
+    "name":"Cartoon Abstronaut T-Shirts",
+    "price": 72,
+    "image":"img/products/f8.jpg"
+
+}
+
+]
